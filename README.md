@@ -1,0 +1,1 @@
+el entregable Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework se encuentra dentro de la carpeta "Portafolio de implementación" que a su vez se encuentra dentro de la carpeta "Aprendizaje maquina". El archivo tiene el mismo nombre que el entregable.
