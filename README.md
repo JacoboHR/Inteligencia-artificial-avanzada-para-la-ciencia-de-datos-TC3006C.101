@@ -3,3 +3,5 @@ el entregable "Momento de Retroalimentación: Módulo 2 Implementación de una t
 El entregable "Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución" se encuentra dentro de la carpeta "Portafolio de implementacion" dentro de una subcarpeta "aprendizaje maquin" que a su vez esta dentro de una carepta con el nombre del entregable.
 
 En el portafolio de análisis de encuentra el entregable "Momento de Retroalimentación: Reto Análisis del contexto y la normatividad"
+
+En el portafolio de reto se encuentra el documento "Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo"
