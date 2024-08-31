@@ -5,3 +5,5 @@ El entregable "Momento de Retroalimentación: Módulo 2 Uso de framework o bibli
 En el portafolio de análisis de encuentra el entregable "Momento de Retroalimentación: Reto Análisis del contexto y la normatividad"
 
 En el portafolio de reto se encuentra el documento "Momento de Retroalimentación: Reto Selección, configuración y entrenamiento del modelo"
+
+En el portafolio de analisis se encuentra el documento "Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo" dentro de la carepeta de aprendizaje maquina en la subcarepeta con el nombre del entregable
