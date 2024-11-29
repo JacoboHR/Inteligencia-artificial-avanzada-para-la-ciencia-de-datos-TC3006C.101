@@ -1,1 +1,0 @@
-Esta carpeta tiene un archivo Jupyter Notebook con todo el desarrollo (código comentado) referente a el entregable "Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución" y un PDF del Jupyter Notebook correspondiente al mismo entregable.
